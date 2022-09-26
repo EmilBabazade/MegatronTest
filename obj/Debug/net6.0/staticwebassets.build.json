@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "blgrIV2BGcULAT5E4guBtzD7ZFXMKIFSFYdtbeSvAhA=",
+  "Hash": "fyAaLWjp5mlrScs0kb10ANHPhOzYrOxYrjbC+2BQwXE=",
   "Source": "MekashronTest",
   "BasePath": "_content/MekashronTest",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Emil\\Projects\\MekashronTest\\wwwroot\\css\\styles.pure.css",
+      "SourceId": "MekashronTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Emil\\Projects\\MekashronTest\\wwwroot\\",
+      "BasePath": "_content/MekashronTest",
+      "RelativePath": "css/styles.pure.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.pure.css"
     },
     {
       "Identity": "C:\\Users\\Emil\\Projects\\MekashronTest\\wwwroot\\favicon.ico",
