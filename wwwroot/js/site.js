@@ -15,8 +15,11 @@
                 if (data.resultCode && data.resultCode == -1) {
                     $('#error-text').text(data.resultMessage);
                     $('#error').show();
+                    setTimeout(() => $('#error').hide(), 5000);
                     return;
                 }
+                $('#success').show();
+                // TODO: redirect to user details page
             }
         });
     });
