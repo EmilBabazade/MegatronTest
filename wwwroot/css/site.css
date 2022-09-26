@@ -22,3 +22,7 @@ body {
     flex: 12;
   }
 }
+
+.alert-danger {
+    display: none;
+}

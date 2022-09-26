@@ -12,7 +12,11 @@
                 "password": password
             }),
             success: function (data) {
-                console.log(data)
+                if (data.resultCode && data.resultCode == -1) {
+                    $('#error-text').text(data.resultMessage);
+                    $('#error').show();
+                    return;
+                }
             }
         });
     });
