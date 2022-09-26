@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BwpgWfJCnLKQlKmJ0uv3TEU8zrtjqZlKZHrVbUgwTIIoS9KXft7SyDAPPWjSQtYvyJxGwfsU5TM1IEEsQhVq6g==",
+  "dgSpecHash": "y6NL1G8wLDjkiAPw821oSSEhhxCq5DALl8G/KAgi78Ke1CKEDrGI5o2eq0m4Zp/giAfSrZmgEhenxVGH5/Hhhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emil\\Projects\\MekashronTest\\MekashronTest.csproj",
+  "projectFilePath": "c:\\Users\\Emil\\Projects\\MekashronTest\\MekashronTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emil\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Emil\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",

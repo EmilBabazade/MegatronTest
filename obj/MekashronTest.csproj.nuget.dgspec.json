@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emil\\Projects\\MekashronTest\\MekashronTest.csproj": {}
+    "c:\\Users\\Emil\\Projects\\MekashronTest\\MekashronTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emil\\Projects\\MekashronTest\\MekashronTest.csproj": {
+    "c:\\Users\\Emil\\Projects\\MekashronTest\\MekashronTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emil\\Projects\\MekashronTest\\MekashronTest.csproj",
+        "projectUniqueName": "c:\\Users\\Emil\\Projects\\MekashronTest\\MekashronTest.csproj",
         "projectName": "MekashronTest",
-        "projectPath": "C:\\Users\\Emil\\Projects\\MekashronTest\\MekashronTest.csproj",
+        "projectPath": "c:\\Users\\Emil\\Projects\\MekashronTest\\MekashronTest.csproj",
         "packagesPath": "C:\\Users\\Emil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emil\\Projects\\MekashronTest\\obj\\",
+        "outputPath": "c:\\Users\\Emil\\Projects\\MekashronTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emil\\AppData\\Roaming\\NuGet\\NuGet.Config",
