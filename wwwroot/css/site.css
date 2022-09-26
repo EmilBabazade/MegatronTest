@@ -26,3 +26,7 @@ body {
 .alert {
     display: none;
 }
+
+.user_details {
+    display: none !important;
+}

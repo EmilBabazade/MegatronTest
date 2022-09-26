@@ -31,6 +31,7 @@ public class HomeController : Controller
         };
         var response = await client.LoginAsync(request);
         // deserialize from json
-        return JsonConvert.DeserializeObject<LoginResultDTO>(response.@return);
+        var user = JsonConvert.DeserializeObject<LoginResultDTO>(response.@return);
+        return user;
     }
 }
