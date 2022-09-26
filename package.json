@@ -1,0 +1,22 @@
+{
+  "name": "mekashrontest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilBabazade/MegatronTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilBabazade/MegatronTest/issues"
+  },
+  "homepage": "https://github.com/EmilBabazade/MegatronTest#readme",
+  "devDependencies": {
+    "purgecss": "^5.0.0"
+  }
+}
